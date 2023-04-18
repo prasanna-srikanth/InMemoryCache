@@ -1,0 +1,6 @@
+/*.user
+/CacheComponent/obj
+/CacheComponent/bin
+/.vs
+/CacheComponent.Tests/bin
+/CacheComponent.Tests/obj
